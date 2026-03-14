@@ -29,5 +29,3 @@ El objetivo es representar matemáticamente el Sistema dinámico. y observar su 
   ✨ <img src="https://i.pinimg.com/originals/27/46/e4/2746e4e73f091431bf800a19ef6964c5.gif" width="500"/> 💖
 </p>
 
-# Practica5_ValeriaLara
-Modelado de sistemas Eléctricos; OPAMPs
